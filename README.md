@@ -1,16 +1,53 @@
-### Hi there 👋
+### Hey 👋🏽, I'm [Robert Veloso!](https://robertveloso.com) 
 
-<!--
-**robertveloso/robertveloso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/robertveloso/">
+  <img align="left" alt="Robert Veloso Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/robertveloso">
+  <img align="left" alt="Robert Veloso Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer 🚀 from Brazil, currently, I'm building [@Crieativa](https://crieativa.com/), Freelancer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/crieativa).
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently also working on [Cidades Digital](https://cidadesdigital.com);
+- 🌱 I’m currently learning Typescript, GraphQL and C#; 
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Hackathons: I find out about this year, but I've enjoyed it a lot and I've been in a few. It was a very good experience, and our team even won some!
+- 📫 How to reach me: telegram ou mail me at robert@velosodigital.com;
+- 📝[Resume](https://drive.google.com/file/d/1AavWIBoVNbwOhTunzQaWekFV2h0_yI4d/view?usp=sharing)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
+![Robert Veloso github stats](https://github-readme-stats.vercel.app/api?username=robertveloso&show_icons=true&hide_border=true)
+
+⭐️ From [robertveloso](https://github.com/robertveloso)
+
+
+<a href="https://github.com/robertveloso/americanas-meu-ticket">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=robertveloso&repo=americanas-meu-ticket" />
+</a>
+
+<a href="https://github.com/robertveloso/fastfeet">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=robertveloso&repo=fastfeet" />
+</a>
+
+

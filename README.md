@@ -10,7 +10,7 @@
 <br />
 <br />
 
-Full Stack Developer 🚀 from Brazil, currently, I'm working at [@Mundiale][https://mundiale.com.br/] and as freelancer in the spare time 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/crieativa).
+Full Stack Developer 🚀 from Brazil, currently, I'm working at [@Mundiale](https://mundiale.com.br/) and as freelancer in the spare time 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/crieativa).
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   

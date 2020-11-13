@@ -10,16 +10,16 @@
 <br />
 <br />
 
-Full Stack Developer 🚀 from Brazil, currently, I'm building [@Crieativa](https://crieativa.com/), Freelancer 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/crieativa).
+Full Stack Developer 🚀 from Brazil, currently, I'm working at (@Mundiale)[https://mundiale.com.br/] and as freelancer in the spare time 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/crieativa).
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently also working on [Cidades Digital](https://cidadesdigital.com);
-- 🌱 I’m currently learning Typescript, GraphQL and C#; 
+- 💻 Checkout my bussiness projects [Cidades Digital](https://cidadesdigital.com/) and [@Crieativa](https://crieativa.com/);
+- 🌱 Learning Typescript, GraphQL and C#; 
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Hackathons: I find out about this year, but I've enjoyed it a lot and I've been in a few. It was a very good experience, and our team even won some!
+- ⚡️ Hackathons: Once in while;
 - 📫 How to reach me: telegram ou mail me at robert@velosodigital.com;
 - 📝[Resume](https://drive.google.com/file/d/1AavWIBoVNbwOhTunzQaWekFV2h0_yI4d/view?usp=sharing)
 

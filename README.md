@@ -16,7 +16,7 @@ Full Stack Developer 🚀 from Brazil, currently, I'm working at [@Mundiale](htt
   
 **Talking about Personal Stuffs:**
 
-- 💻 Checkout my bussiness projects [Cidades Digital](https://cidadesdigital.com/) and [@Crieativa](https://crieativa.com/);
+- 💻 Checkout my bussiness projects [@Cidades Digital](https://cidadesdigital.com/) and [@Crieativa](https://crieativa.com/);
 - 🌱 Learning Typescript, GraphQL and C#; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Hackathons: Once in while;

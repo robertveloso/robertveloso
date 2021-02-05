@@ -10,14 +10,14 @@
 <br />
 <br />
 
-Full Stack Developer 🚀 from Brazil, currently, I'm working at [@Mundiale](https://mundiale.com.br/) and as freelancer in the spare time 👨🏽‍💻 [@Fiverr](https://www.fiverr.com/crieativa).
+Full Stack Developer 🚀 from Brazil, currently, I'm working at [@Mundiale](https://mundiale.com.br/) 👨🏽‍💻
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 💻 Checkout my bussiness projects [@Cidades Digital](https://cidadesdigital.com/) and [@Crieativa](https://crieativa.com/);
-- 🌱 Learning Typescript, GraphQL and C#; 
+- 💻 Checkout my bussiness projects [@Cidades Digital](https://cidadesdigital.com/);
+- 🌱 Learning Elixir, Typescript, GraphQL; 
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Hackathons: Once in while;
 - 📫 How to reach me: telegram ou mail me at robert@velosodigital.com;

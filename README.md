@@ -16,11 +16,11 @@ Full Stack Developer 🚀 from Brazil, currently, I'm working at [@Mundiale](htt
   
 **Talking about Personal Stuffs:**
 
-- 💻 Checkout my bussiness projects [@Cidades Digital](https://cidadesdigital.com/);
+- 💻 Checkout my bussiness projects [@Veloso Digital](https://velosodigital.com/);
 - 🌱 Learning Elixir, Typescript, GraphQL; 
-- 💬 Ask me about anything, I am happy to help;
 - ⚡️ Hackathons: Once in while;
 - 📫 How to reach me: mail me at robert@velosodigital.com;
+- 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://github.com/robertveloso/robertveloso/blob/master/robert-luiz-veloso.en.pdf)
 
 **Languages and Tools:**  
